@@ -1,4 +1,4 @@
-package personajesmario;
+package com.personajesmario;
 
 import org.junit.Test;
 
