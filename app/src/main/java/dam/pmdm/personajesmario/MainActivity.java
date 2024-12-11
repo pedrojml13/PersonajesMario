@@ -1,4 +1,4 @@
-package dam.pmdm.videoclase2;
+package dam.pmdm.personajesmario;
 
 import android.content.DialogInterface;
 import android.content.SharedPreferences;
@@ -25,7 +25,7 @@ import com.google.android.material.snackbar.Snackbar;
 
 import java.util.Locale;
 
-import dam.pmdm.videoclase2.databinding.ActivityMainBinding;
+import dam.pmdm.personajesmario.databinding.ActivityMainBinding;
 
 /**
  * La actividad principal de la aplicación, donde se configura la navegación y las interacciones con el usuario.

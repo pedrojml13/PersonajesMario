@@ -1,4 +1,4 @@
-package dam.pmdm.videoclase2;
+package dam.pmdm.personajesmario;
 
 import android.content.Intent;
 import android.os.Build;

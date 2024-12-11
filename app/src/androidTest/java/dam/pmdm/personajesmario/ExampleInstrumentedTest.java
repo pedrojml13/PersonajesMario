@@ -1,4 +1,4 @@
-package dam.pmdm.videoclase2;
+package dam.pmdm.personajesmario;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("dam.pmdm.videoclase2", appContext.getPackageName());
+        assertEquals("dam.pmdm.personajesmario", appContext.getPackageName());
     }
 }

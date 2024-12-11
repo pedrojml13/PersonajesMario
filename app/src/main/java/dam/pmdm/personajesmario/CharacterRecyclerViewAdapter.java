@@ -1,4 +1,4 @@
-package dam.pmdm.videoclase2;
+package dam.pmdm.personajesmario;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -6,7 +6,7 @@ import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 import java.util.ArrayList;
-import dam.pmdm.videoclase2.databinding.CharacterCardviewBinding;
+import dam.pmdm.personajesmario.databinding.CharacterCardviewBinding;
 import android.view.View;
 
 /**

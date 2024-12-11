@@ -1,7 +1,4 @@
-package dam.pmdm.videoclase2;
-
-import android.graphics.drawable.Drawable;
-import android.media.Image;
+package dam.pmdm.personajesmario;
 
 /**
  * Representa los datos de un personaje, incluyendo su imagen, nombre, descripción y habilidades.

@@ -1,8 +1,8 @@
-package dam.pmdm.videoclase2;
+package dam.pmdm.personajesmario;
 
 import androidx.recyclerview.widget.RecyclerView;
-import com.squareup.picasso.Picasso;
-import dam.pmdm.videoclase2.databinding.CharacterCardviewBinding;
+
+import dam.pmdm.personajesmario.databinding.CharacterCardviewBinding;
 
 /**
  * ViewHolder que contiene las vistas de un personaje dentro de un RecyclerView.

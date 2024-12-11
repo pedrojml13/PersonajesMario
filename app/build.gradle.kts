@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "dam.pmdm.videoclase2"
+    namespace = "dam.pmdm.personajesmario"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "dam.pmdm.videoclase2"
+        applicationId = "dam.pmdm.personajesmario"
         minSdk = 31
         targetSdk = 34
         versionCode = 1
