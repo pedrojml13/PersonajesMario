@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">App Super Mario</string>
+    <string name="lang">English</string>
+    <string name="mario">Mario</string>
+    <string name="luigi">Luigi</string>
+    <string name="peach">Peach</string>
+    <string name="toad">Toad</string>
+    <string name="character_list">Character List</string>
+    <string name="character_details">Character Details</string>
+    <string name="about">About...</string>
+    <string name="about_message">App developed by Pedro Javier Morales Leyva</string>
+    <string name="ok">OK</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="welcome_message">Welcome to the world of Mario</string>
+    <string name="toast_text">Selected character: </string>
+    <string name="mario_description">Hero of the Mushroom Kingdom, known for his bravery and ability to rescue Princess Peach. He is an iconic plumber with his signature red hat.</string>
+    <string name="mario_abilities">"Abilities:
+-Jumps high and with precision.
+-Brave hero of the Mushroom Kingdom.
+-Ability to use power-ups like the Super Mushroom, Fire Flower, and Cape.
+-Great determination to rescue Peach and face Bowser."</string>
+    <string name="luigi_description">Mario\'s younger brother, somewhat shy but equally brave. He stands out with his green hat and is taller than Mario.</string>
+    <string name="luigi_abilities">"Abilities:
+-Jumps higher than Mario, but with less control.
+-Expert in facing ghosts thanks to his Poltergust vacuum cleaner.
+-Loyal and sometimes shy brother, but determined in critical situations.
+-Can slide slightly when falling due to his jumping style."</string>
+    <string name="peach_description">Princess of the Mushroom Kingdom, often captured by Bowser, but also brave and determined to protect her kingdom.</string>
+    <string name="peach_abilities">"Abilities:
+-Can float in the air for a few seconds with her dress.
+-Smart and strategic in times of danger.
+-Controls the power of the Heart in some games, using it for defense or attack.
+-Brave protector of the Mushroom Kingdom."</string>
+    <string name="toad_description">Inhabitant of the Mushroom Kingdom and loyal servant of Peach, recognizable by his red hat with white spots. He is a helpful ally in many adventures.</string>
+    <string name="toad_abilities">"Abilities:
+-Great speed and strength when carrying objects.
+-Reliable servant always willing to help.
+-Has knowledge of the Mushroom Kingdom and its secrets.
+-Loyal and optimistic even in the worst situations."</string>
+
+    <string name="open_drawer">Open menu</string>
+    <string name="close_drawer">Close menu</string>
+    <string name="language">Change languaje</string>
+
+</resources>

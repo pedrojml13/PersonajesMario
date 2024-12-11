@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SuperMarioBros" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/mario</item>
+        <item name="colorAccent">@color/luigi</item>
+        <item name="android:windowBackground">@drawable/fondo_claro</item>
+        <item name="android:fontFamily">@font/mario_font</item>
+    </style>
+
+
+
+
+    <style name="Theme.SuperMarioApp" parent="Base.Theme.SuperMarioBros" />
+</resources>

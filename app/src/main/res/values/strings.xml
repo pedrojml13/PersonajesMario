@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">App Super Mario</string>
+    <string name="lang">Español</string>
+    <string name="mario">Mario</string>
+    <string name="luigi">Luigi</string>
+    <string name="peach">Peach</string>
+    <string name="toad">Toad</string>
+    <string name="character_list">Lista de personajes</string>
+    <string name="character_details">Detalles del personaje</string>
+    <string name="about">Acerca de...</string>
+    <string name="about_message">Aplicación desarrollada por Pedro Javier Morales Leyva</string>
+    <string name="ok">Aceptar</string>
+    <string name="home">Home</string>
+    <string name="settings">Ajustes</string>
+    <string name="welcome_message">Bienvenidos al mundo de Mario</string>
+    <string name="toast_text">Se ha seleccionado el personaje: </string>
+
+    <string name="mario_description">Héroe del Reino Champiñón, conocido por su valentía y habilidad para rescatar a la Princesa Peach. Es un fontanero icónico con su característico sombrero rojo.</string>
+    <string name="mario_abilities">"Habilidades:
+-Salta alto y con precisión.
+-Héroe valiente del Reino Champiñón.
+-Habilidad para usar power-ups como el Súper Champiñón, la Flor de Fuego y la Capa.
+-Gran determinación para rescatar a Peach y enfrentar a Bowser."</string>
+    <string name="luigi_description">Hermano menor de Mario, algo tímido pero igualmente valiente. Destaca por su sombrero verde y su altura superior a la de Mario.</string>
+    <string name="luigi_abilities">"Habilidades:
+-Salta más alto que Mario, pero con menor control.
+-Experto en enfrentar fantasmas gracias a su aspiradora Poltergust.
+-Hermano leal y a veces tímido, pero decidido en situaciones críticas.
+-Puede deslizarse ligeramente al caer debido a su estilo de salto."</string>
+    <string name="peach_description">Princesa del Reino Champiñón, a menudo capturada por Bowser, pero también valiente y determinada en proteger a su reino.</string>
+    <string name="peach_abilities">"Habilidades:
+-Puede flotar en el aire durante unos segundos con su vestido.
+-Inteligente y estratégica en momentos de peligro.
+-Maneja el poder del Corazón en algunos juegos, usándolo para defenderse o atacar.
+-Valiente protectora del Reino Champiñón."</string>
+    <string name="toad_description">Habitante del Reino Champiñón y leal sirviente de Peach, reconocible por su gorro rojo con lunares blancos. Es un aliado útil en muchas aventuras.</string>
+    <string name="toad_abilities">"Habilidades:
+-Gran velocidad y fuerza al cargar objetos.
+-Sirviente confiable y siempre dispuesto a ayudar.
+-Posee conocimientos del Reino Champiñón y sus secretos.
+-Leal y optimista incluso en las peores situaciones."</string>
+
+    <string name="open_drawer">Abrir menú</string>
+    <string name="close_drawer">Cerrar menú</string>
+    <string name="language">Cambiar idioma</string>
+</resources>

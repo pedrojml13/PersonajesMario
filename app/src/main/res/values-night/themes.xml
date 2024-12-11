@@ -1,0 +1,40 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SuperMarioBros" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/marioRedDark</item>
+        <item name="colorAccent">@color/marioGreenDark</item>
+        <item name="android:windowBackground">@drawable/fondo_oscuro</item>
+        <item name="android:fontFamily">@font/mario_font</item>
+
+        <!-- SplashScreen cofiguration-->
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/mario_splash</item>
+        <item name="android:windowSplashScreenAnimationDuration">3000</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/black</item>
+        <item name="android:windowSplashScreenBackground">@color/black</item>
+    </style>
+
+    <style name="DrawerMenuHeaderStyle">
+        <item name="android:background">@color/marioRedDark</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textSize">30sp</item>
+
+    </style>
+
+    <style name="DrawerMenuStyle">
+        <item name="android:background">@color/marioGreenDark</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textSize">24sp</item>
+
+    </style>
+
+    <style name="styleswitch">
+        <item name="android:background">@color/marioRedDark</item>
+    </style>
+
+    <color name="about">#6065A2</color>
+    <color name="about_background">#503905</color>
+
+    <color name="backgroud_splash">#432543</color>
+
+</resources>
