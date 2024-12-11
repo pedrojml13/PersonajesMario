@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "dam.pmdm.personajesmario"
+    namespace = "com.personajesmario"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "dam.pmdm.personajesmario"
+        applicationId = "com.personajesmario"
         minSdk = 31
         targetSdk = 34
         versionCode = 1

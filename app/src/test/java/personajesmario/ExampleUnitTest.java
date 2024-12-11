@@ -1,4 +1,4 @@
-package dam.pmdm.personajesmario;
+package personajesmario;
 
 import org.junit.Test;
 
